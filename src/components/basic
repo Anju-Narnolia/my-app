@@ -1,0 +1,11 @@
+first letter of the components 's name must be upper case
+rfc for react based function 
+
+React Router Dom is used in react tonot load the whole page onl take or load tha nesseary part
+{/* <Route path="/">
+          <Textform
+            tittle=" Write About Your Self"
+            mode={mode}
+            showAlert={showAlert}
+          />
+        </Route> */}
